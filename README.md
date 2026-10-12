@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines?style=for-the-badge&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines?style=for-the-badge&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines?style=for-the-badge&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines?style=for-the-badge&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge" alt="License" /></a>
@@ -62,9 +62,9 @@ The following hosted and managed stream processing platforms ingest, transform, 
 
 Explore the top open-source distributed engines, stream compute runtimes, streaming databases, and message brokers for building self-hosted, sovereign real-time architectures.
 
-*Sorted in descending order by GitHub Stars ⭐:*
+*Sorted in descending order by GitHub_Stars ⭐:*
 
-| 🛠️ Project | ⭐ Stars | 📜 License | 📖 Description & Architectural Role |
+| 🛠️ Project | ⭐ GitHub_Stars | 📜 License | 📖 Description & Architectural Role |
 | :--- | :--- | :--- | :--- |
 | **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** | [![Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) | Apache-2.0 | Ultra-fast columnar streaming analytics database with native Kafka/vector tables and real-time materialized views. |
 | **[Apache Spark](https://github.com/apache/spark)** | [![Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers) | Apache-2.0 | Unified analytics engine featuring **Spark Structured Streaming** for scalable micro-batch and continuous event processing. |
