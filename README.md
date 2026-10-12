@@ -1,6 +1,6 @@
 # Awesome-Managed-Streaming-Data-Pipelines
 
-# Top Managed Streaming Data Pipelines Ecosystem
+## Top Managed Streaming Data Pipelines Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Real-Time Event Processing, Stream Ingestion & Continuous Data Transformation*  
