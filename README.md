@@ -11,6 +11,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines?style=for-the-badge&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines?style=for-the-badge&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://mmg.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > **A curated showcase of premier SaaS cloud services, serverless event hubs, and open-source distributed frameworks for real-time streaming data pipelines, continuous ETL, Change Data Capture (CDC), and event-driven architecture.**
@@ -23,6 +24,8 @@
 - [☁️ SaaS & Hosted Streaming Platforms](#️-saas--hosted-streaming-platforms)
 - [⚡ Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Architectural Blueprints & Stack Combinations](#️-architectural-blueprints--stack-combinations)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#star-history)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Disclaimer](#️-disclaimer)
 
@@ -121,6 +124,21 @@ Contributions are warmly welcomed! Help keep this repository the definitive stre
 4. **Submit a Pull Request** with a concise summary of additions.
 
 ⭐ *Don't forget to star this repository if it helps your data engineering journey!*
+
+## 💖 Support & Sponsorship
+
+If you find this curated ecosystem directory helpful, consider supporting the continuous maintenance and curation of open-source resources:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and share** it with your data engineering team, colleagues, and community.
+- ☕ **Buy a coffee & sponsor**: Support the creator on GitHub Sponsors at [**https://github.com/sponsors/ishandutta2007**](https://github.com/sponsors/ishandutta2007).
+
+Your backing and sponsorship help keep this list up-to-date with emerging engines and production benchmarks! Thank you! 🙌
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Managed-Streaming-Data-Pipelines&type=date&legend=top-left)
 
 ---
 
